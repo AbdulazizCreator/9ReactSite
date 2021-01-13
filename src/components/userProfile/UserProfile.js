@@ -10,7 +10,7 @@ export default class UserProfile extends Component {
       <div className="main__userprofile">
         <div className="profile__card user__profile__image">
           <div className="profile__image">
-            <img src="https://pbs.twimg.com/profile_images/1116431270697766912/-NfnQHvh_400x400.jpg" />
+            <img src="https://pbs.twimg.com/profile_images/1116431270697766912/-NfnQHvh_400x400.jpg" alt='fs'/>
           </div>
           <h4>Fernando Faucho</h4>
           <p>CEO & Founder at Highly Inc</p>

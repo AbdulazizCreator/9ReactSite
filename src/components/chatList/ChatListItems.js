@@ -2,9 +2,7 @@ import React, { Component } from "react";
 import Avatar from "./Avatar";
 
 export default class ChatListItems extends Component {
-  constructor(props) {
-    super(props);
-  }
+
   selectChat = (e) => {
     for (
       let index = 0;
